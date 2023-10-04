@@ -4,7 +4,7 @@ import prefetch from "@astrojs/prefetch";
 
 import sitemap from "@astrojs/sitemap";
 
-const website = 'https://portafoliophp.anibalcayetano.com/';
+const website = 'https://portafoliobackendjunior.anibalcayetano.com/';
 
 // https://astro.build/config
 export default defineConfig({
