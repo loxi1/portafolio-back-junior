@@ -188,6 +188,6 @@ export const portafolio = {
 
 export const skills = {
     habilidades: [
-        "php", "codeigniter", "nodejs","prisma", "fastify", "express", "mysql", "postgresql"
+        "php", "laravel", "codeigniter", "nodejs","prisma", "fastify", "express", "mysql"
     ]
 }
