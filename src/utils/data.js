@@ -182,7 +182,57 @@ export const portafolio = {
 
                 }
             ]
-        }      
+        },
+        { 
+            title: 'jlcelectricistas', 
+            description: 'Grupo de ingenieros electricos que brindan servicios de: diseño de proyectos eléctricos en media y baja tensión, ingeniería de detalles, Memorias Descriptivas, Memorias de Cálculos, Especificaciones Técnicas y planos eléctricos en general', dia: '', anio: '2023', mes: 'Marzo', 
+            dia: '', 
+            anio: '2023', 
+            mes: 'Mayo', 
+            git: 'https://github.com/loxi1/jlc-consultora-proyectos', 
+            image: 'jlc-electricistas.png', 
+            tipo: "front",
+            "skills": [
+                {
+                    "name": "Astro",
+                    "imagen": "astro"
+                },
+                {
+                    "name": "emailJs",
+                    "imagen": "emailjs"
+                },
+                {
+                    "name": "Tailwind",
+                    "imagen": "tailwind"
+                },
+            ],
+            url: 'https://www.jlcelectricistas.com/'
+        },
+        { 
+            title: 'Confecciones adler', 
+            description: 'Emprendimiento del rubro textil dedicada al corte, confección y bordados.', 
+            dia: '', 
+            anio: '2023', 
+            mes: 'Febreo', 
+            git: 'https://github.com/loxi1/Adler', 
+            image: 'confeciones-adler.png',
+            tipo: "front",
+            "skills": [
+                {
+                    "name": "Astro",
+                    "imagen": "astro"
+                },
+                {
+                    "name": "emailJs",
+                    "imagen": "emailjs"
+                },
+                {
+                    "name": "Tailwind",
+                    "imagen": "tailwind"
+                },
+            ],
+            url: 'https://confeccionesadler.com/'
+        }         
     ]
 }
 
